@@ -12,7 +12,7 @@ npm i
 ```shell
 npm start
 ```
-- open browser and visit home page:
+- open browser and visit home page:  
 http://127.0.0.1:3000/  
 or detail page:  
 http://127.0.0.1:3000/detail
