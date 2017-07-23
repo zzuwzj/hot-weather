@@ -1,0 +1,31 @@
+{
+  "name": "hot-weather",
+  "version": "0.0.1",
+  "description": "React SSR weather demo with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzuwzj/hot-weather.git"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "next.js"
+  ],
+  "author": "zzuwzj@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzuwzj/hot-weather/issues"
+  },
+  "homepage": "https://github.com/zzuwzj/hot-weather#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "next": "^2.4.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
